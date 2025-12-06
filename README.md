@@ -16,10 +16,13 @@ Developing tools on top of the **Alpaca** platform to help traders make better-i
 ### 🌱 This Semester's Courses @ NMBU
 | Code | Course Name | Focus |
 |------|-------------|-------|
-| DAT300 | Applied Deep Learning | 🧠 Neural Networks & Applications |
-| MLA210 | Machine Learning in Tech & Finance | 📈 Practical ML |
-| INF230 | Data Management & Analysis | 💾 MySQL, Data Wrangling |
-| STAT351 | Statistical Theory | 📐 Multivariate & Inference |
+| STIN300   | Statistical Programming in R               | 📊 Visualization & Reproducible Analysis |
+| INF205    | Resource-Efficient Programming             | ⚙️ Modern C++ & Memory Management |
+| INF221    | Computer Science Foundations               | 🧮 Algorithms, Complexity & Correctness |
+| MLA310    | Matrix Methods for Data Analysis & ML      | 🧠 Advanced Matrix Techniques & Modeling |
+| MATH290   | Real Analysis                              | 📐 Rigorous Foundations of Mathematical Analysis |
+| INN201-B  | Management Accounting                      | 💼 Budgeting, Cost Analysis & Financial Insight |
+| BUS134-B  | Excel for Business Management              | 📈 Spreadsheet Modeling & Data Analysis |
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
