@@ -20,7 +20,7 @@ Developing tools on top of the **Alpaca** platform to help traders make better-i
 | INF205    | Resource-Efficient Programming             | ⚙️ Modern C++ & Memory Management |
 | INF221    | Computer Science Foundations               | 🧮 Algorithms, Complexity & Correctness |
 | MLA310    | Matrix Methods for Data Analysis & ML      | 🧠 Advanced Matrix Techniques & Modeling |
-| MATH290   | Real Analysis                              | 📐 Rigorous Foundations of Mathematical Analysis |
+| MATH285   | Optimization                               | 🎯 Convexity, Linear & Nonlinear Optimization, Algorithms |
 | INN201-B  | Management Accounting                      | 💼 Budgeting, Cost Analysis & Financial Insight |
 | BUS134-B  | Excel for Business Management              | 📈 Spreadsheet Modeling & Data Analysis |
 
