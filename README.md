@@ -16,7 +16,6 @@ Developing tools on top of the **Alpaca** platform to help traders make better-i
 ### 🌱 This Semester's Courses @ NMBU
 | Code | Course Name | Focus |
 |------|-------------|-------|
-| STIN300   | Statistical Programming in R               | 📊 Visualization & Reproducible Analysis |
 | INF205    | Resource-Efficient Programming             | ⚙️ Modern C++ & Memory Management |
 | INF221    | Computer Science Foundations               | 🧮 Algorithms, Complexity & Correctness |
 | MLA310    | Matrix Methods for Data Analysis & ML      | 🧠 Advanced Matrix Techniques & Modeling |
