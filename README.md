@@ -22,6 +22,7 @@ Developing tools on top of the **Alpaca** platform to help traders make better-i
 | MATH285   | Optimization                               | 🎯 Convexity, Linear & Nonlinear Optimization, Algorithms |
 | INN201-B  | Management Accounting                      | 💼 Budgeting, Cost Analysis & Financial Insight |
 | BUS134-B  | Excel for Business Management              | 📈 Spreadsheet Modeling & Data Analysis |
+| BUS113-B         | Financial Accounting                       | 📊 Financial Statements, Accounting Regulations, Analysis & ESG / EU Taxonomy Reporting |
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
