@@ -16,13 +16,13 @@ Developing tools on top of the **Alpaca** platform to help traders make better-i
 ### 🌱 This Semester's Courses @ NMBU
 | Code | Course Name | Focus |
 |------|-------------|-------|
-| INF205    | Resource-Efficient Programming             | ⚙️ Modern C++ & Memory Management |
-| INF221    | Computer Science Foundations               | 🧮 Algorithms, Complexity & Correctness |
-| MLA310    | Matrix Methods for Data Analysis & ML      | 🧠 Advanced Matrix Techniques & Modeling |
-| MATH285   | Optimization                               | 🎯 Convexity, Linear & Nonlinear Optimization, Algorithms |
-| INN201-B  | Management Accounting                      | 💼 Budgeting, Cost Analysis & Financial Insight |
-| BUS134-B  | Excel for Business Management              | 📈 Spreadsheet Modeling & Data Analysis |
-| BUS113-B         | Financial Accounting                       | 📊 Financial Statements, Accounting Regulations, Analysis & ESG / EU Taxonomy Reporting |
+| DAT320    | Sequential Data & Time Series Analysis            | 📈 Time Series Forecasting, Anomaly Detection & Machine Learning |
+| DAT350    | Applied Health Data Science & Medical Physics     | 🏥 Medical Imaging, Survival Analysis & Predictive Healthcare AI |
+| MATH250   | Partial Differential Equations & Mathematical Modeling | 🌊 PDEs, Numerical Methods, Simulation & Scientific Computing |
+| AOS238-B  | Sustainable Strategy                              | 🌱 Sustainable Business Strategy, Competitive Advantage & ESG |
+| AOS229-B  | Leadership & Organizational Psychology            | 🧑‍🤝‍🧑 Motivation, Leadership, Team Dynamics & Organizational Behavior |
+| AOS135-B  | Human Resource Management                         | 👥 Strategic HR, Talent Management, Recruitment & Workplace Development |
+| AOS121-B  | Sustainable Marketing Management                  | 📣 Marketing Strategy, Consumer Behavior, Branding & Sustainable Markets |
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
